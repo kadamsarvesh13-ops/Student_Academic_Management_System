@@ -1,0 +1,18 @@
+/* SRAMS - blue & white college dashboard theme */
+.stApp { background: #f5f8fd; }
+section[data-testid="stSidebar"] { background: #1f4e9e; }
+section[data-testid="stSidebar"] * { color: #ffffff !important; }
+section[data-testid="stSidebar"] .stButton button { background: #ffffff; color: #1f4e9e !important; border: 0; }
+section[data-testid="stSidebar"] .stButton button * { color: #1f4e9e !important; }
+.side-brand { font-size: 1.4rem; font-weight: 700; padding: .4rem 0 .8rem 0; }
+.side-brand small { font-weight: 400; opacity: .85; font-size: .75rem; }
+.page-title { font-size: 1.8rem; font-weight: 700; color: #1f4e9e; margin-bottom: .2rem; }
+.stat-card { background: #ffffff; border-radius: 12px; padding: 1rem 1.1rem; border-left: 5px solid #1f6feb;
+             box-shadow: 0 1px 4px rgba(31,78,158,.12); margin-bottom: 1rem; }
+.stat-value { font-size: 1.8rem; font-weight: 700; color: #1f4e9e; line-height: 1.1; }
+.stat-label { font-size: .82rem; color: #57606a; margin-top: .25rem; }
+.login-card { text-align: center; margin: 3rem 0 1rem 0; }
+.login-card h1 { color: #1f4e9e; margin-bottom: 0; }
+.login-card p { color: #57606a; }
+div[data-testid="stForm"] { background: #ffffff; border-radius: 12px; border: 1px solid #d0d7de; }
+.stTabs [aria-selected="true"] { color: #1f4e9e; }

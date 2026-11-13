@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+database/academic.db
+database/*.db-journal
+ai/model.joblib
+.env
+.DS_Store
